@@ -1,0 +1,3 @@
+export AuthParamList = {
+    Login: undefined
+}
